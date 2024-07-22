@@ -1,5 +1,6 @@
-
-  {
+[
+{
+{
     "aweme_id": "7260749400622894336",
     "desc": "你说爱像云 要自在漂浮才美丽",
     "create_time": 1690524964,
@@ -20,8 +21,8 @@
             "url_list": [
                 "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5374859713808b0007ba979b1f18171c.jpeg?from=116350172"
             ],
-            "width": 720,
-            "height": 720
+            "width": 100,
+            "height": 100
         },
         "play_url": {
             "uri": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3",
@@ -43,13 +44,13 @@
         "play_addr": {
             "uri": "v0d00fg10000cj1lq4jc77u0ng6s1gt0",
             "url_list": [
-                "https://file.notion.so/f/f/e0b28452-1a36-4692-9825-64220486b0b1/0eaabe26-e7ec-4e2b-9b6c-0bced1928462/%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%EF%BC%8C%E5%B0%8F%E7%99%BD%E5%8F%AF%E6%87%82%E7%9A%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B___2%E7%A7%8D%E6%96%B9%E6%B3%95%E8%AE%A9%E4%BD%A0%E6%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%BF%85%E5%A4%87_-_001_-_%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%EF%BC%8C%E5%B0%8F%E7%99%BD%E5%8F%AF%E6%87%82%E7%9A%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B___2%E7%A7%8D.mp4?id=3a6a8310-7677-41a3-b787-95a9f0d4d8d4&table=block&spaceId=e0b28452-1a36-4692-9825-64220486b0b1&expirationTimestamp=1721714400000&signature=_kKEBbIbMPE4fT5q7US81CefZJebV7ACDU0O8XYsCc0&downloadName=%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%EF%BC%8C%E5%B0%8F%E7%99%BD%E5%8F%AF%E6%87%82%E7%9A%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B+%7C++2%E7%A7%8D%E6%96%B9%E6%B3%95%E8%AE%A9%E4%BD%A0%E6%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%BF%85%E5%A4%87+-+001+-+%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%EF%BC%8C%E5%B0%8F%E7%99%BD%E5%8F%AF%E6%87%82%E7%9A%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B+%7C++2%E7%A7%8D%E6%96%B9%E6%B3%95%E8%AE%A9%E4%BD%A0%E6%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%BF%85%E5%A4%87+-+001+-+%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%EF%BC%8C%E5%B0%8F%E7%99%BD%E5%8F%AF%E6%87%82%E7%9A%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B+%7C++2%E7%A7%8D.mp4"
+                "https://file.notion.so/f/f/e0b28452-1a36-4692-9825-64220486b0b1/0eaabe26-e7ec-4e2b-9b6c-0bced1928462/%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%EF%BC%8C%E5%B0%8F%E7%99%BD%E5%8F%AF%E6%87%82%E7%9A%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B___2%E7%A7%8D%E6%96%B9%E6%B3%95%E8%AE%A9%E4%BD%A0%E6%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%BF%85%E5%A4%87_-_001_-_%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%EF%BC%8C%E5%B0%8F%E7%99%BD%E5%8F%AF%E6%87%82%E7%9A%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B___2%E7%A7%8D.mp4?id=3a6a8310-7677-41a3-b787-95a9f0d4d8d4&table=block&spaceId=e0b28452-1a36-4692-9825-64220486b0b1&expirationTimestamp=1721714400000&signature=_kKEBbIbMPE4fT5q7US81CefZJebV7ACDU0O8XYsCc0&downloadName=%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%EF%BC%8C%E5%B0%8F%E7%99%BD%E5%8F%AF%E6%87%82%E7%9A%84%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B___2%E7%A7%8D.mp4" 
             ],
             "width": 1080,
             "height": 1920,
             "url_key": "v0d00fg10000cj1lq4jc77u0ng6s1gt0"
         },
-        "duration": 10,
+        "duration": 600,
         "origin_cover": {
             "uri": "https://p26.douyinpic.com/tos-cn-p-0015/2e78a36b4f334132a9ff024f58621b9a~tplv-dy-360p.jpeg",
             "url_list": [
@@ -66,18 +67,18 @@
     },
     "status": {
         "is_delete": false,
-        "allow_share": true， 
+        "allow_share": true,
         "allow_comment": true,
         "is_private": false
     },
     "author": {
-        "uid": "107382143198", 
+        "uid": "107382143198",
         "nickname": "我是香秀🐂🍺",
         "follower_count": 7078268
     },
     "share_url": "https://www.iesdouyin.com/share/video/7260749400622894336/?region=CN&mid=7123807457931130123&u_code=f65hj7jb&did=3c225f5dbf9c4e3fbf55b0b65e74efb8&iid=MS4wLjABAAAAhQ5pKk_ux0K1sACf5N3WnPPUlCGiV1gbDM5AnEzOTwI",
     "cover": "https://p26.douyinpic.com/tos-cn-p-0015/2e78a36b4f334132a9ff024f58621b9a~tplv-dy-360p.jpeg"
 }
-
-    
-
+  
+}
+]
