@@ -1,4 +1,4 @@
-[
+
   {
     "aweme_id": "7260749400622894336",
     "desc": "你说爱像云 要自在漂浮才美丽",
@@ -66,12 +66,12 @@
     },
     "status": {
         "is_delete": false,
-        "allow_share": true,
+        "allow_share": true， 
         "allow_comment": true,
         "is_private": false
     },
     "author": {
-        "uid": "107382143198",
+        "uid": "107382143198", 
         "nickname": "我是香秀🐂🍺",
         "follower_count": 7078268
     },
@@ -80,4 +80,4 @@
 }
 
     
-]
+
