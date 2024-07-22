@@ -1,5 +1,4 @@
 [
-    {
         {
             "aweme_id": "7260749400622894336"，   
             "desc": "你说爱像云 要自在漂浮才美丽",
@@ -19,7 +18,7 @@
                 "cover_thumb": {
                     "uri": "100x100/aweme-avatar/tos-cn-avt-0015_5374859713808b0007ba979b1f18171c",
                     "url_list": [
-                        "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5374859713808b0007ba979b1f18171c.jpeg?from=116350172" 
+                        "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5374859713808b0007ba979b1f18171c.jpeg?from=116350172"   
                     ],
                     "width": 100,
                     "height": 100
@@ -28,10 +27,10 @@
                     "uri": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3",
                     "url_list": [ 
                         "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3",
-                        "https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3"
+                        "https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/7123453672335690532.mp3"    
                     ],
                     "width": 720,
-                    "height": 720,
+                    "height": 720， 
                     "url_key": "7123453673090321159"
                 },
                 "duration": 17,
@@ -52,9 +51,9 @@
                 },
                 "duration": 600,
                 "origin_cover": {
-                    "uri": "https://p26.douyinpic.com/tos-cn-p-0015/2e78a36b4f334132a9ff024f58621b9a~tplv-dy-360p.jpeg",
+                    "uri": "https://p26.douyinpic.com/tos-cn-p-0015/2e78a36b4f334132a9ff024f58621b9a~tplv-dy-360p.jpeg"， 
                     "url_list": [
-                        "https://p26.douyinpic.com/tos-cn-p-0015/2e78a36b4f334132a9ff024f58621b9a~tplv-dy-360p.jpeg" 
+                        "https://p26.douyinpic.com/tos-cn-p-0015/2e78a36b4f334132a9ff024f58621b9a~tplv-dy-360p.jpeg"  
                     ],
                     "width": 720,
                     "height": 1280
@@ -72,13 +71,11 @@
                 "is_private": false
             },
             "author": {
-                "uid": "107382143198",
+                "uid": "107382143198"， 
                 "nickname": "我是香秀🐂🍺",
                 "follower_count": 7078268
             },
             "share_url": "https://www.iesdouyin.com/share/video/7260749400622894336/?region=CN&mid=7123807457931130123&u_code=f65hj7jb&did=3c225f5dbf9c4e3fbf55b0b65e74efb8&iid=MS4wLjABAAAAhQ5pKk_ux0K1sACf5N3WnPPUlCGiV1gbDM5AnEzOTwI",
             "cover": "https://p26.douyinpic.com/tos-cn-p-0015/2e78a36b4f334132a9ff024f58621b9a~tplv-dy-360p.jpeg"
         }
-      
-    }
 ]
